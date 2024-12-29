@@ -1,6 +1,5 @@
 # kms_vlmcsd
-# Re-write based on https://github.com/Wind4
-Deploy kms_service/vlmcsd_service on Docker container
+Deploy kms_service/vlmcsd_service on Docker container (Re-write based on https://github.com/Wind4)
 
 ```bash
 git clone https://github.com/Wind4/vlmcsd-docker.git vlmcsd

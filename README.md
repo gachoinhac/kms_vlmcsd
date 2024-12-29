@@ -2,7 +2,7 @@
 Deploy kms_service/vlmcsd_service on Docker container (Re-write based on https://github.com/Wind4)
 
 ```bash
-git clone https://github.com/Wind4/vlmcsd-docker.git vlmcsd
+git clone https://github.com/gachoinhac/kms_vlmcsd.git vlmcsd
 cd vlmcsd
 
 # Use docker-compose service
